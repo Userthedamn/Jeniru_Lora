@@ -11,3 +11,5 @@ This is a code made to test the distance and the speed of lora wireless communic
 | SS | 7 |
 | RST | 0 |
 | DIO0 | 1 |
+
+* these are the pins ⬆️
